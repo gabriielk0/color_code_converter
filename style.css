@@ -1,7 +1,12 @@
 :root {
-    --cor-de-fundo: #F5F5F5;
+    --cor-de-fundo: #808080;
+    --cor-fundo-header: #333333;
 }
 
 body {
     background-color: var(--cor-de-fundo);
+}
+
+.titulo{
+    background-color: var(--cor-fundo-header);
 }
